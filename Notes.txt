@@ -1,0 +1,6 @@
+Padrão para criar classes de domínio (domain)
+	1 - Atributos
+	2 - Construtores vazios e com campos
+	3 - Encapsulamento Get e Set
+	4 - Colocar serial version
+	5 - HashCode e Equals (Comparador de campos)
