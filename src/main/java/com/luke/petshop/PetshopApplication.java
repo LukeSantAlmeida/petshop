@@ -1,4 +1,4 @@
-package com.luke.pertshop;
+package com.luke.petshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

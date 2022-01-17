@@ -1,4 +1,4 @@
-package com.luke.pertshop.domain;
+package com.luke.petshop.domain;
 
 import java.io.Serializable;
 import java.util.Objects;

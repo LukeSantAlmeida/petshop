@@ -1,4 +1,4 @@
-package com.luke.pertshop;
+package com.luke.petshop;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
